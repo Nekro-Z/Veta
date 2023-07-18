@@ -1,2 +1,2 @@
 # Veta
-The best cheating projectwhich will review and also make cheats for different games like cs go , assault cube
+A cheating project which will review and also make cheats for different games like CS:GO , Assault Cube
